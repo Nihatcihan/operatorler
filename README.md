@@ -1,0 +1,1 @@
+** Operatorler konusunda pratikler yapildi
